@@ -54,5 +54,5 @@ Requirements:
 
 Credit
 ----
-- Author: Hideya Kawaji <kawaji@gsc.riken.jp>
+- Author: Hideya Kawaji <kawaji [ at ] gsc.riken.jp>
 - Copyright: RIKEN, Japan.
